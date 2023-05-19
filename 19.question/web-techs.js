@@ -1,0 +1,1 @@
+export let popularWebTechnology=["javascript","java","python"];
